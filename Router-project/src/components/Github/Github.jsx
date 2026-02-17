@@ -12,4 +12,4 @@ export default function GitHub() {
   return(
     <div>Github: {data.followers}</div>
   )
-}
+} 
